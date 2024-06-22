@@ -24,7 +24,7 @@
     "BOTNAME": "miraixd",
     "PREFIX": "#",
     "ADMINBOT": [
-        "100095290150085",
+        "100000436645880",
         "",
         "",
         "",
@@ -36,15 +36,15 @@
         ""
     ],
     "ADMIN": [
-        "100095290150085",
+        "100000436645880",
         ""
     ],
-    "OWNER": "Kaizenji",
+    "OWNER": "Shahriar Ahammed Limon",
     "AGE": "69",
     "GENDER": "Male",
-    "OWNERID": "100095290150085",
-    "BOTCREATOR": "Kaizenji",
-    "FACEBOOK": "https://www.facebook.com/100095290150085",
+    "OWNERID": "100000436645880",
+    "BOTCREATOR": " Limon",
+    "FACEBOOK": "https://www.facebook.com/shahriarahammedlimonx",
     "rankupmode": "gifcanvas",
     "BanTemplate": "disable",
     "AutoOffBot": "false",
@@ -99,7 +99,7 @@
     },
     "log": {
         "enable": true,
-        "adminID": "100095290150085"
+        "adminID": "100000436645880"
     },
     "rankup": {
         "autoUnsend": "true",
