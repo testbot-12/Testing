@@ -70,7 +70,7 @@ module.exports.run = async ({ api, event }) => {
       }
 
       const message = {
-        body: `🎼°𝙲𝚢𝚋𝚎𝚛 𝙰𝚗𝚊 𝚂𝚎𝚗𝚍 𝚈𝚘𝚞𝚛 𝚖𝚞𝚜𝚒𝚌 🌠\n\nTitle: ${video.title}\nArtist: ${video.author.name}`,
+        body: `🎼°𝘊𝘺𝘣𝘦𝘳 𝘓𝘪𝘮𝘶 𝘚𝘦𝘯𝘥 𝘺𝘰𝘶𝘳 𝘔𝘶𝘴𝘪𝘤 🌠\n\nTitle: ${video.title}\nArtist: ${video.author.name}`,
         attachment: fs.createReadStream(filePath)
       };
 
