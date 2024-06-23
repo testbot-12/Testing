@@ -23,7 +23,7 @@
 			<h3>My Facebook Account ->
 	<a href="https://www.facebook.com/shahriarahammedlimonx" style="color: green;">Limon🚀</a></h3></div>
 
-- If you encounter any issues or have questions related to this REPL, please don't hesitate to reach out to me on Facebook. I'm here to assist you!
+- If you encounter any issues or have questions related to this, please don't hesitate to reach out to me on Facebook. I'm here to assist you!
 
 
 
